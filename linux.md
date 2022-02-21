@@ -72,3 +72,10 @@ nano .bashrc
     unzip -j openjfx-17.0.2_linux-x64_bin-jmods.zip
     rm openjfx-17.0.2_linux-x64_bin-jmods.zip
     ```
+  - Ex Linux aarch64:
+  ```bash
+    cd $JAVA_HOME/jmods
+    wget https://download2.gluonhq.com/openjfx/17.0.2/openjfx-17.0.2_linux-aarch64_bin-jmods.zip
+    unzip -j openjfx-17.0.2_linux-x64_bin-jmods.zip
+    rm openjfx-17.0.2_linux-x64_bin-jmods.zip
+  ```
